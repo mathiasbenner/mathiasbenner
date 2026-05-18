@@ -1,6 +1,6 @@
 # 👋 Hello, I am Mathias BENNER
 
-Full-stack developer navigating both ends of the stack, a few database layers, the occasional virtual machine, and just enough security knowledge to be quietly concerned. I enjoy building things that are maintainable by design — mostly because I'm usually the one who has to maintain them.
+Full-stack developer navigating both ends of the stack, a few database layers, the occasional virtual machine, and just enough security knowledge to be quietly concerned. I enjoy building things that are maintainable by design - mostly because I'm usually the one who has to maintain them.
 
 My knowledge is perfectible, and my lack thereof is.
 
